@@ -1,0 +1,16 @@
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\bin\Debug\SDF.exe.config
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\bin\Debug\SDF.exe
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\bin\Debug\SDF.pdb
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.csproj.AssemblyReference.cache
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.Properties.Resources.resources
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.csproj.GenerateResource.cache
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.csproj.CoreCompileInputs.cache
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.exe
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.pdb
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.GUI.Splash.resources
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.GUI.Login.resources
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\bin\Debug\DataLayer.dll
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\bin\Debug\MySql.Data.dll
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\bin\Debug\DataLayer.pdb
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\bin\Debug\DataLayer.dll.config
+C:\Users\cotuz\source\repos\SIstema de Facturacion\SDF\obj\Debug\SDF.csproj.Up2Date
